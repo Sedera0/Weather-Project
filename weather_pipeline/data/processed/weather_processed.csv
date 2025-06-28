@@ -1,0 +1,13 @@
+city,timestamp,temp,humidity,wind_speed,weather,date,ideal_temp,low_wind,no_rain,tourist_score,travel_advice
+Paris,1751112484,28.61,54,3.09,clouds,2025-06-28 12:08:04,False,True,True,2,Correct
+Tokyo,1751090303,34.4,25,3.38,clouds,2025-06-28 05:58:23,False,True,True,2,Correct
+London,1751102523,22.1,78,5.14,clouds,2025-06-28 09:22:03,True,True,True,3,Excellent
+Tokyo,1751102120,30.83,46,6.69,clouds,2025-06-28 09:15:20,False,True,True,2,Correct
+London,1751090646,20.0,84,5.14,clouds,2025-06-28 06:04:06,False,True,True,2,Correct
+London,1751112412,26.02,64,5.14,clouds,2025-06-28 12:06:52,True,True,True,3,Excellent
+Paris,1751102262,24.9,67,2.57,clouds,2025-06-28 09:17:42,True,True,True,3,Excellent
+Paris,1751090618,20.44,89,3.09,clear,2025-06-28 06:03:38,False,True,True,2,Correct
+Paris,1751090145,20.51,81,1.17,clouds,2025-06-28 05:55:45,False,True,True,2,Correct
+Tokyo,1751090689,33.96,32,3.6,clouds,2025-06-28 06:04:49,False,True,True,2,Correct
+Tokyo,1751112619,27.42,60,6.69,clear,2025-06-28 12:10:19,True,True,True,3,Excellent
+London,1751090279,19.67,85,4.17,clouds,2025-06-28 05:57:59,False,True,True,2,Correct

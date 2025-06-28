@@ -1,0 +1,11 @@
+# Ignorer tous les dossiers __pycache__
+__pycache__/
+*/__pycache__/
+
+# Ignorer tous les dossiers logs
+logs/
+*/logs/
+*/*/logs/
+
+airflow.db
+airflow.cfg
