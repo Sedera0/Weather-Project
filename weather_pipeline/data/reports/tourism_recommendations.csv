@@ -1,4 +1,4 @@
-city,month,avg_temp,max_temp,min_temp,avg_score,rain_probability,recommendation
-London,2025-06-30,21.9475,26.02,19.67,2.5,0.0,⭐️⭐️⭐️
-Paris,2025-06-30,23.615000000000002,28.61,20.44,2.25,0.0,⭐️⭐️
-Tokyo,2025-06-30,31.6525,34.4,27.42,2.25,0.0,⭐️⭐️
+city,month,avg_temp,max_temp,min_temp,avg_score,rain_probability,recommendation,season,temp_range,comfort_index
+London,2025-06-30,29.799999999999997,29.9,29.7,2.0,0.0,⭐️⭐️,Été,0.1999999999999993,17.88
+Paris,2025-06-30,30.145000000000003,30.19,30.1,2.0,0.0,⭐️⭐️,Été,0.08999999999999986,18.087
+Tokyo,2025-06-30,25.75,26.07,25.43,3.0,0.0,⭐️⭐️⭐️,Été,0.6400000000000006,15.45
