@@ -1,37 +1,109 @@
 city,timestamp,temp,humidity,wind_speed,weather,date,ideal_temp,low_wind,no_rain,tourist_score,travel_advice
+Tel Aviv,1751350721,28.14,57,2.06,clear,2025-07-01 06:18:41,False,True,True,2,Correct
 Eilat,1751282405,37.91,20,5.14,clear,2025-06-30 11:20:05,False,True,True,2,Correct
 Atlanta,1751282435,21.72,84,1.54,mist,2025-06-30 11:20:35,False,True,True,2,Correct
+Eilat,1751350904,32.91,27,4.12,clear,2025-07-01 06:21:44,False,True,True,2,Correct
+San Diego,1751350088,20.07,86,2.41,clouds,2025-07-01 06:08:08,False,True,True,2,Correct
 Portland,1751282335,16.9,74,1.54,clear,2025-06-30 11:18:55,False,True,True,2,Correct
+Denver,1751350011,19.45,60,3.35,clouds,2025-07-01 06:06:51,False,True,True,2,Correct
+Phoenix,1751349926,32.67,22,6.59,clouds,2025-07-01 06:05:26,False,True,True,2,Correct
 Jacksonville,1751282567,23.8,93,2.57,clouds,2025-06-30 11:22:47,True,True,True,3,Excellent
+Saint Louis,1751350230,22.02,93,2.71,clouds,2025-07-01 06:10:30,True,True,True,3,Excellent
+Atlanta,1751350088,23.18,86,1.9,clouds,2025-07-01 06:08:08,True,True,True,3,Excellent
 San Diego,1751282542,18.12,88,3.6,clouds,2025-06-30 11:22:22,False,True,True,2,Correct
+Toronto,1751350900,20.75,94,3.58,mist,2025-07-01 06:21:40,False,True,True,2,Correct
+San Diego,1751350888,18.22,88,3.6,clouds,2025-07-01 06:21:28,False,True,True,2,Correct
+Boston,1751350903,22.07,84,1.54,clouds,2025-07-01 06:21:43,True,True,True,3,Excellent
 Houston,1751282404,24.44,92,3.09,clouds,2025-06-30 11:20:04,True,True,True,3,Excellent
 Philadelphia,1751282333,24.38,86,3.6,clear,2025-06-30 11:18:53,True,True,True,3,Excellent
 Miami,1751282078,26.26,84,2.57,clouds,2025-06-30 11:14:38,True,True,True,3,Excellent
 Denver,1751282141,16.83,72,2.68,clear,2025-06-30 11:15:41,False,True,True,2,Correct
+Jacksonville,1751350234,23.5,92,2.37,clouds,2025-07-01 06:10:34,True,True,True,3,Excellent
 Toronto,1751282571,19.07,83,4.92,clear,2025-06-30 11:22:51,False,True,True,2,Correct
+Jacksonville,1751350817,23.69,92,2.57,clouds,2025-07-01 06:20:17,True,True,True,3,Excellent
+Seattle,1751350343,16.93,78,0.89,clear,2025-07-01 06:12:23,False,True,True,2,Correct
+Eilat,1751350247,33.7,30,1.89,clear,2025-07-01 06:10:47,False,True,True,2,Correct
 Haifa,1751282348,29.52,58,5.66,clouds,2025-06-30 11:19:08,False,True,True,2,Correct
 Kansas City,1751282391,21.24,88,1.54,clouds,2025-06-30 11:19:51,False,True,True,2,Correct
 San Antonio,1751282551,23.95,87,0.0,clouds,2025-06-30 11:22:31,True,True,True,3,Excellent
+Las Vegas,1751350221,22.44,16,1.7,clear,2025-07-01 06:10:21,True,True,True,3,Excellent
 Vancouver,1751282536,15.4,85,0.89,clear,2025-06-30 11:22:16,False,True,True,2,Correct
+Toronto,1751349677,20.84,96,0.57,clouds,2025-07-01 06:01:17,False,True,True,2,Correct
+Charlotte,1751350236,24.3,88,3.37,clouds,2025-07-01 06:10:36,True,True,True,3,Excellent
 Nahariya,1751282550,29.97,62,4.88,clear,2025-06-30 11:22:30,False,True,True,2,Correct
+Charlotte,1751350899,23.81,89,3.6,clouds,2025-07-01 06:21:39,True,True,True,3,Excellent
+Philadelphia,1751350241,23.94,95,1.26,rain,2025-07-01 06:10:41,True,True,False,2,Correct
+Portland,1751350887,23.08,58,3.6,clouds,2025-07-01 06:21:27,True,True,True,3,Excellent
+Haifa,1751350248,29.47,63,2.68,clear,2025-07-01 06:10:48,False,True,True,2,Correct
+Jerusalem,1751350725,27.03,33,0.45,clear,2025-07-01 06:18:45,True,True,True,3,Excellent
+Chicago,1751350230,22.74,75,2.08,clouds,2025-07-01 06:10:30,True,True,True,3,Excellent
+Dallas,1751350226,24.19,79,2.74,clouds,2025-07-01 06:10:26,True,True,True,3,Excellent
+Minneapolis,1751350895,18.57,90,2.06,clear,2025-07-01 06:21:35,False,True,True,2,Correct
+San Antonio,1751350892,23.71,87,2.06,clear,2025-07-01 06:21:32,True,True,True,3,Excellent
 Albuquerque,1751282549,22.28,52,12.35,dust,2025-06-30 11:22:29,True,True,True,3,Excellent
+Detroit,1751350639,24.3,87,3.6,clear,2025-07-01 06:17:19,True,True,True,3,Excellent
 Chicago,1751282331,24.31,81,2.06,clouds,2025-06-30 11:18:51,True,True,True,3,Excellent
 Los Angeles,1751281897,17.15,84,3.6,clouds,2025-06-30 11:11:37,False,True,True,2,Correct
+Saint Louis,1751350895,21.62,94,1.54,clouds,2025-07-01 06:21:35,False,True,True,2,Correct
+Pittsburgh,1751350767,22.95,96,4.63,clear,2025-07-01 06:19:27,True,True,True,3,Excellent
 Seattle,1751282403,14.59,81,0.45,clear,2025-06-30 11:20:03,False,True,True,2,Correct
+Kansas City,1751350227,20.71,91,2.33,clouds,2025-07-01 06:10:27,False,True,True,2,Correct
+Beersheba,1751350903,28.83,46,0.31,clear,2025-07-01 06:21:43,False,True,True,2,Correct
+Chicago,1751350342,24.97,69,1.34,clouds,2025-07-01 06:12:22,True,True,True,3,Excellent
+San Francisco,1751350021,16.59,88,3.36,clouds,2025-07-01 06:07:01,False,True,True,2,Correct
 Phoenix,1751282071,32.31,22,0.45,clouds,2025-06-30 11:14:31,False,True,True,2,Correct
+Minneapolis,1751350229,18.27,90,2.62,clear,2025-07-01 06:10:29,False,True,True,2,Correct
 San Francisco,1751282520,11.47,92,4.63,clouds,2025-06-30 11:22:00,False,True,True,2,Correct
+Nashville,1751350896,25.11,85,1.91,clouds,2025-07-01 06:21:36,True,True,True,3,Excellent
 Detroit,1751282542,23.33,92,3.09,rain,2025-06-30 11:22:22,True,True,False,2,Correct
 Indianapolis,1751282435,22.88,94,2.06,clouds,2025-06-30 11:20:35,True,True,True,3,Excellent
+Houston,1751350893,24.79,90,0.0,clouds,2025-07-01 06:21:33,True,True,True,3,Excellent
+Vancouver,1751350620,19.68,74,4.12,clear,2025-07-01 06:17:00,False,True,True,2,Correct
+Indianapolis,1751350232,23.13,88,1.79,rain,2025-07-01 06:10:32,True,True,False,2,Correct
+New York,1751350689,24.53,91,3.6,clouds,2025-07-01 06:18:09,True,True,True,3,Excellent
+Philadelphia,1751350824,22.53,96,5.66,mist,2025-07-01 06:20:24,True,True,True,3,Excellent
 New York,1751282291,23.96,69,2.57,clear,2025-06-30 11:18:11,True,True,True,3,Excellent
 Jerusalem,1751282424,31.51,40,3.13,clear,2025-06-30 11:20:24,False,True,True,2,Correct
 Dallas,1751282023,24.58,86,3.6,clouds,2025-06-30 11:13:43,True,True,True,3,Excellent
+Tel Aviv,1751350247,30.46,59,0.84,clear,2025-07-01 06:10:47,False,True,True,2,Correct
 Charlotte,1751282360,22.83,93,0.45,clear,2025-06-30 11:19:20,True,True,True,3,Excellent
+Albuquerque,1751350891,19.88,57,2.57,clouds,2025-07-01 06:21:31,False,True,True,2,Correct
 Saint Louis,1751282562,22.66,90,2.57,clouds,2025-06-30 11:22:42,True,True,True,3,Excellent
 Montreal,1751282328,18.44,83,2.57,clouds,2025-06-30 11:18:48,False,True,True,2,Correct
+Houston,1751350113,24.47,91,2.62,clear,2025-07-01 06:08:33,True,True,True,3,Excellent
+Nahariya,1751350249,29.34,61,2.75,clear,2025-07-01 06:10:49,False,True,True,2,Correct
+Portland,1751350218,22.92,56,1.56,clouds,2025-07-01 06:10:18,True,True,True,3,Excellent
+Boston,1751350136,21.28,88,2.38,clouds,2025-07-01 06:08:56,False,True,True,2,Correct
 Minneapolis,1751282560,17.27,93,4.63,clouds,2025-06-30 11:22:40,False,True,True,2,Correct
+Denver,1751350892,19.38,58,0.89,clouds,2025-07-01 06:21:32,False,True,True,2,Correct
+Detroit,1751350233,22.84,86,2.42,clouds,2025-07-01 06:10:33,True,True,True,3,Excellent
+Jerusalem,1751350027,27.06,35,0.4,clear,2025-07-01 06:07:07,True,True,True,3,Excellent
+San Francisco,1751350809,12.49,89,5.66,clouds,2025-07-01 06:20:09,False,True,True,2,Correct
+Montreal,1751350006,22.71,72,2.21,clouds,2025-07-01 06:06:46,True,True,True,3,Excellent
 Boston,1751282316,19.67,80,0.89,clear,2025-06-30 11:18:36,False,True,True,2,Correct
+Phoenix,1751350891,37.63,17,2.24,clouds,2025-07-01 06:21:31,False,True,True,2,Correct
 Tel Aviv,1751282324,31.19,56,5.14,clear,2025-06-30 11:18:44,False,True,True,2,Correct
+Atlanta,1751350897,23.74,81,3.09,clear,2025-07-01 06:21:37,True,True,True,3,Excellent
+Los Angeles,1751350889,18.34,78,5.14,clouds,2025-07-01 06:21:29,False,True,True,2,Correct
+Nahariya,1751350905,28.54,60,2.75,clear,2025-07-01 06:21:45,False,True,True,2,Correct
+Kansas City,1751350768,20.89,89,0.0,clear,2025-07-01 06:19:28,False,True,True,2,Correct
 Beersheba,1751282584,33.03,40,6.25,clear,2025-06-30 11:23:04,False,True,True,2,Correct
+Nashville,1751350231,23.97,88,1.91,clouds,2025-07-01 06:10:31,True,True,True,3,Excellent
 Nashville,1751282564,22.96,90,3.09,clouds,2025-06-30 11:22:44,True,True,True,3,Excellent
+Seattle,1751350089,20.27,64,1.77,clear,2025-07-01 06:08:09,False,True,True,2,Correct
 Las Vegas,1751282531,29.23,15,3.09,clear,2025-06-30 11:22:11,False,True,True,2,Correct
+Miami,1751350727,25.24,84,2.57,rain,2025-07-01 06:18:47,True,True,False,2,Correct
+Indianapolis,1751350831,24.44,76,3.09,rain,2025-07-01 06:20:31,True,True,False,2,Correct
+Beersheba,1751350245,28.71,47,0.31,clear,2025-07-01 06:10:45,False,True,True,2,Correct
+Los Angeles,1751349923,19.58,76,1.54,clear,2025-07-01 06:05:23,False,True,True,2,Correct
+New York,1751349403,23.75,92,2.51,rain,2025-07-01 05:56:43,True,True,False,2,Correct
+Dallas,1751350744,25.88,69,2.57,clouds,2025-07-01 06:19:04,True,True,True,3,Excellent
+San Antonio,1751350224,23.49,91,2.06,clouds,2025-07-01 06:10:24,True,True,True,3,Excellent
+Montreal,1751350746,23.65,66,4.12,clouds,2025-07-01 06:19:06,True,True,True,3,Excellent
+Albuquerque,1751350223,19.37,59,3.47,clouds,2025-07-01 06:10:23,False,True,True,2,Correct
+Haifa,1751350730,27.52,57,2.57,clear,2025-07-01 06:18:50,True,True,True,3,Excellent
+Miami,1751349837,24.04,86,4.29,rain,2025-07-01 06:03:57,True,True,False,2,Correct
+Las Vegas,1751350675,34.08,14,2.06,clear,2025-07-01 06:17:55,False,True,True,2,Correct
+Pittsburgh,1751350238,22.74,96,1.85,clouds,2025-07-01 06:10:38,True,True,True,3,Excellent
 Pittsburgh,1751282570,23.04,93,2.06,mist,2025-06-30 11:22:50,True,True,True,3,Excellent
+Vancouver,1751350217,19.01,72,1.37,clear,2025-07-01 06:10:17,False,True,True,2,Correct

@@ -69,3 +69,10 @@ notebooks/
 └── 3_EDA_Combined.ipynb       # Analyse croisée météo-tourisme
 ```
 
+## 📊 Dashboard interactive (Power BI)
+
+![dashboard](weather_pipeline/docs/dash1.PNG)
+![city score](weather_pipeline/docs/dash2.PNG)
+![temperature](weather_pipeline/docs/dash3.PNG)
+![visualisation](weather_pipeline/docs/dash4.PNG)
+![credits](weather_pipeline/docs/dash5.PNG)
